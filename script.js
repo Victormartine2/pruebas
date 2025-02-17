@@ -1,9 +1,9 @@
 const criptomonedas = [
-    { name: "Bitcoin", symbol: "BTC", price: 45000, marketCap: "850B", change24h: "+2.5%" },
-    { name: "Ethereum", symbol: "ETH", price: 3200, marketCap: "370B", change24h: "+1.8%" },
-    { name: "Cardano", symbol: "ADA", price: 1.2, marketCap: "40B", change24h: "-0.5%" },
-    { name: "Binance Coin", symbol: "BNB", price: 410, marketCap: "70B", change24h: "+3.1%" },
-    { name: "Solana", symbol: "SOL", price: 100, marketCap: "30B", change24h: "+4.0%" }
+    { name: "Bitcoin", symbol: "BTC", price: 96000, marketCap: "1.9T", change24h: "+2.5%" },
+    { name: "Ethereum", symbol: "ETH", price: 2700, marketCap: "329B", change24h: "+1.8%" },
+    { name: "Cardano", symbol: "ADA", price: 0.8, marketCap: "28B", change24h: "-0.5%" },
+    { name: "Binance Coin", symbol: "BNB", price: 672, marketCap: "95B", change24h: "+3.1%" },
+    { name: "Solana", symbol: "SOL", price: 184, marketCap: "90B", change24h: "+4.0%" }
   ];
   
   function generarTabla() {
